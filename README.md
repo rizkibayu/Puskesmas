@@ -1,2 +1,0 @@
-# Puskesmas-Priject
-File
